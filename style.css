@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Audiowide');
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
-/* @import url('https://fonts.googleapis.com/css?family=Doto'); */
+@import url('https://fonts.googleapis.com/css?family=Doto');
 
 * {
     margin: 0;
@@ -232,6 +232,14 @@ h1, h5 {
     text-align: center; 
     font-weight: 700; 
     font-size: 1.1rem;
+}
+
+h5 {
     font-family: 'Source Code Pro';
+    color: rgb(184, 109, 109);
+}
+
+h1 {
+    font-family: 'Doto';
     color: rgb(184, 109, 109);
 }
