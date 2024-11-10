@@ -232,16 +232,16 @@ h1, h5 {
     text-align: center; 
     font-weight: 700; 
     font-size: 1.1rem;
-}
-
-h5 {
+    
     font-family: 'Source Code Pro';
     color: rgb(184, 109, 109);
 }
 
 h1 {
+    margin: 50px;
+    
     font-family: 'Doto';
     color: rgb(184, 109, 109);
-    font-weight: 700; 
+    font-weight: 400; 
     font-size: 5rem;
 }
