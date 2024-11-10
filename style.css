@@ -242,4 +242,6 @@ h5 {
 h1 {
     font-family: 'Doto';
     color: rgb(184, 109, 109);
+    font-weight: 700; 
+    font-size: 1.7rem;
 }
