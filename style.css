@@ -226,7 +226,7 @@ button#reset:active {
     top: 4px;
 }
 
-h5 {
+h1, h5 {
     margin: 50px;
 
     text-align: center; 
