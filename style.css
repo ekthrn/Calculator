@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Audiowide');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+/* @import url('https://fonts.googleapis.com/css?family=Doto'); */
 
 * {
     margin: 0;
@@ -12,7 +14,7 @@
 html {
     height: 100%;
     background: rgb(250, 237, 237);
-    background: radial-gradient(circle, rgb(250, 237, 237) 20%, rgb(208, 166, 166));
+    background: radial-gradient(circle, rgb(250, 237, 237) 20%, rgb(207, 175, 175));
     background-size: cover;
 
     display: flex;
@@ -93,8 +95,8 @@ div#screen {
 
     border-radius: 50px;
 
-    background: #b4b4b4;
-    border: 3px solid #6c6c6c;
+    background: #b9b9b9;
+    border: 3px solid #5e5e5e;
     box-shadow: inset 0px 4px #626262;
     display: flex;
     flex-direction: column;
@@ -222,4 +224,14 @@ button#equal:active {
 button#reset:active {
     box-shadow: 0px 0px #d3545d;
     top: 4px;
+}
+
+h5 {
+    margin: 50px;
+
+    text-align: center; 
+    font-weight: 700; 
+    font-size: 1.1rem;
+    font-family: 'Source Code Pro';
+    color: rgb(184, 109, 109);
 }
