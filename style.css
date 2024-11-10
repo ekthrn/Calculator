@@ -239,10 +239,10 @@ h1, h5 {
 }
 
 h1 {
-    margin: 50px;
+    margin: 30px;
     
     font-family: 'Doto';
     color: rgb(184, 109, 109);
     font-weight: 400; 
-    font-size: 5rem;
+    font-size: 4rem;
 }
